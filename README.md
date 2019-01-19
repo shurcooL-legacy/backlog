@@ -1,6 +1,8 @@
 shurcooL/backlog
 ================
 
+**Update in 2019:** This was a good experiment, but I've stopped using it by now. I've archived this repository, and you can contact me via other means listed at https://dmitri.shuralyov.com/about.
+
 Hi, I'm Dmitri Shuralyov, a [person](https://dmitri.shuralyov.com), and this is my backlog of things I want to get to get around to resolving.
 
 If you'd like to contact me, feel free to [open an issue](https://github.com/shurcooL/backlog/issues/new)! Think of it as another email inbox for me. Everything is public, just like on Twitter. If you have a sensitive issue and would like to reach me privately, feel free to use email for that.
